@@ -1,2 +1,2 @@
 # EasyHTTPServer
-A simple, free, cross-platform HTTP server
+[EasyHTTPServerGUI](https://github.com/g1thubhack3r/EasyHTTPServerGUI)'s console version.  
